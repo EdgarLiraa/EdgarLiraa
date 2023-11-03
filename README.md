@@ -1,4 +1,4 @@
-# Welcome to my Github, I'm Edgar Lira!
+# 👨‍💻​ Welcome, I'm Edgar Lira!
 
 I'm an Informational Systems student at the University of São Paulo. 
 
