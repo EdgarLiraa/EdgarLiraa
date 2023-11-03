@@ -2,7 +2,7 @@
 
 I'm an Informational Systems student at the University of São Paulo. 
 
-<h3> Languages and Tools ⚒️  </h3>
+<h2> Languages and Tools ⚒️  </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
@@ -13,10 +13,13 @@ I'm an Informational Systems student at the University of São Paulo.
 
 </div>
 
-<h3>⚡ Stats ⚡</h3>
+<h2>⚡ Stats ⚡</h2>
 <br>
 <div>
   <img width=300 src="https://github-readme-stats.vercel.app/api?username=edgarliraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <p>
+    
+  </p>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarliraa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
  
