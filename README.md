@@ -16,7 +16,7 @@ I'm an Informational Systems student at the University of São Paulo.
 <h2>⚡ Stats ⚡</h2>
 <br>
 <div>
-  <img width=300 src="https://github-readme-stats.vercel.app/api?username=edgarliraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api?username=edgarliraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <p>
     
   </p>
