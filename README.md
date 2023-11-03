@@ -1,4 +1,4 @@
-### Welcome! I'm Edgar👨‍💻​
+# Welcome! I'm Edgar👨‍💻​
 
 
 
@@ -17,9 +17,8 @@
 <h2>⚡ Stats ⚡</h2>
 <br>
 <div>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarliraa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=edgarliraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarliraa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
  
 </div>
