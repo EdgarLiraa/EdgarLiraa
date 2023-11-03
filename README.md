@@ -1,7 +1,6 @@
 # Welcome! I'm Edgar👨‍💻​
 
-
-
+I'm an Informational Systems student at the University of São Paulo. 
 
 <h2> Languages and Tools ⚒️  </h2>
 
@@ -18,7 +17,7 @@
 <br>
 <div>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=edgarliraa&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarliraa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarliraa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
  
 </div>
